@@ -188,6 +188,12 @@ chmod +x kk
 
 ## Step 3: Get Started with Installation
 
+You need to switch to root user to run kk command:
+
+```bash
+sudo su
+```
+
 You only need to run one command for all-in-one installation. The template is as follows:
 
 ```bash
